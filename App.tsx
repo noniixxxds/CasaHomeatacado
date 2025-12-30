@@ -1,9 +1,9 @@
 
 import React from 'react';
-import Navbar from './components/Navbar.tsx';
-import Hero from './components/Hero.tsx';
-import Categories from './components/Categories.tsx';
-import WhatsAppButton from './components/AIChatAssistant.tsx';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import Categories from './components/Categories';
+import WhatsAppButton from './components/AIChatAssistant';
 import { ShoppingBag, Instagram, Facebook, Linkedin, MessageCircle, Truck, ShieldCheck, Box, CreditCard } from 'lucide-react';
 
 const App: React.FC = () => {
