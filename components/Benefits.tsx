@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { BENEFITS, ICON_MAP } from '../constants';
+import { BENEFITS, ICON_MAP } from '../constants.tsx';
 
 const Benefits: React.FC = () => {
   return (
